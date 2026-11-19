@@ -1,16 +1,40 @@
-## Hi there 👋
+# 윤정인 | jeongin82
 
-<!--
-**jeongin82/jeongin82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+사용자가 흐름을 놓치지 않고 사용할 수 있는 화면을 고민합니다.
 
-Here are some ideas to get you started:
+서강대학교 컴퓨터공학에 재학 중이며, 프런트엔드 개발과 AI를 공부하고 있습니다.
+사용자의 행동에 명확하게 반응하고, 다음 행동을 자연스럽게 안내하는 인터페이스에 관심이 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 프로젝트
+
+### Prom::Enter
+
+**AI 대화와 선택으로 아이돌 그룹의 24개월을 이끄는 스토리 게임**
+
+2인 팀에서 프런트엔드 구현을 담당했습니다.
+대화·선택·장면 전환으로 이어지는 게임을 웹 화면으로 구현했습니다.
+
+**React · TypeScript · CSS · Vite**
+
+[프로젝트 코드와 협업 기록](https://github.com/ajy720/prom-enter)
+· [플레이하기](https://prom-enter.ajy720.me)
+
+#### 주요 기여
+
+- **[플레이 흐름 통합과 저장·복원 구현 #33](https://github.com/ajy720/prom-enter/pull/33)**  
+  진행 상태를 연결하고 중복 요청과 오류 재시도에 대응했습니다.
+
+- **[캐릭터 이미지와 대화 화면 배치 개선 #40](https://github.com/ajy720/prom-enter/pull/40)**  
+  인물별 이미지 경계와 화면 크기를 고려해 사진·대화창 배치를 조정했습니다.
+
+- **[영상 감상과 장면 전환 구현 #66](https://github.com/ajy720/prom-enter/pull/66)**  
+  선발한 캐릭터에 맞는 영상을 연결하고 재생 이후 장면 전환을 구현했습니다.
+
+- **[서버 연결을 위한 프런트 흐름 보존 기준 문서화 #41](https://github.com/ajy720/prom-enter/pull/41)**  
+  AI·웹 연결 작업에서 기존 화면과 월별 진행 흐름을 유지할 수 있도록 판정·수익·결말의 보존 기준을 문서로 정리했습니다.
+
+## 기술과 학습
+
+- **프로젝트에서 사용:** React, TypeScript, HTML, CSS, Vite
+- **협업 도구:** Git, GitHub
+- **학습 관심사:** React의 상태 관리, 웹 접근성, 반응형 UI, AI 서비스의 사용자 경험
